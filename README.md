@@ -5,7 +5,7 @@
 **Bring the stunning Mac-Duo folding screen effect to your Windows laptop.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/Windows-Duo.svg?style=social&label=Star)](https://github.com/YOUR_USERNAME/Windows-Duo)
+[![GitHub stars](https://img.shields.io/github/stars/thehokim/Windows-Duo.svg?style=social&label=Star)](https://github.com/thehokim/Windows-Duo)
 
 *Close your laptop lid and watch your screen content beautifully tilt, blur, and fade in 3D right before the system goes to sleep.*
 
@@ -41,7 +41,7 @@ Requirements:
 **Steps:**
 1. Clone the repository:
    ```cmd
-   git clone https://github.com/YOUR_USERNAME/Windows-Duo.git
+   git clone https://github.com/thehokim/Windows-Duo.git
    cd Windows-Duo
    ```
 2. Build and run it directly:
